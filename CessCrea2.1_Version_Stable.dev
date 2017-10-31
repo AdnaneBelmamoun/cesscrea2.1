@@ -1,0 +1,59 @@
+[Project]
+FileName=CessCrea2.1_Version_Stable.dev
+Name=CessCrea2.1_Version_Stable
+UnitCount=1
+Type=1
+Ver=1
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=CessCrea2.1_Version_Stable_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=0
+Icon=CessCrea2.1_Version_Stable.ico
+ExeOutput=
+ObjectOutput=
+OverrideOutput=1
+OverrideOutputName=CessCrea 2.1.exe
+HostApplication=
+Folders=
+CommandLine=
+UseCustomMakefile=0
+CustomMakefile=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=0
+CompilerSettings=0000000000000101000000
+
+[Unit1]
+FileName=CessCrea2.1_Version_Stable.c
+CompileCpp=0
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[VersionInfo]
+Major=1
+Minor=2
+Release=1
+Build=4
+LanguageID=1036
+CharsetID=1252
+CompanyName=Belmamoun's software
+FileVersion=1.2.0.1
+FileDescription=Developée par Belmamoun Adnane
+InternalName=CessCrea2.1
+LegalCopyright=Copyright Belmamoun's software  2010. 
+LegalTrademarks=Belmamoun's software
+OriginalFilename=CessCrea2.1.jar
+ProductName=CessCrea 
+ProductVersion=2.1.0.1
+AutoIncBuildNr=0
+

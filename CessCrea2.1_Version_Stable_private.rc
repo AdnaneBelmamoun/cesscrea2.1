@@ -1,0 +1,37 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "CessCrea2.1_Version_Stable.ico"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 1,2,1,4
+PRODUCTVERSION 1,2,1,4
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "040C04E4"
+		 {
+			 VALUE "CompanyName", "Belmamoun's software"
+			 VALUE "FileVersion", "1.2.0.1"
+			 VALUE "FileDescription", "Developée par Belmamoun Adnane"
+			 VALUE "InternalName", "CessCrea2.1"
+			 VALUE "LegalCopyright", "Copyright Belmamoun's software  2010. "
+			 VALUE "LegalTrademarks", "Belmamoun's software"
+			 VALUE "OriginalFilename", "CessCrea2.1.jar"
+			 VALUE "ProductName", "CessCrea "
+			 VALUE "ProductVersion", "2.1.0.1"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x040C, 1252
+	 }
+}
+

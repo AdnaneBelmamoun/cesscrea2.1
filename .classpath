@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/ant.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/jaxen-core.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/jaxen-jdom.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/jdom.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/sax2r2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/saxpath.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/xalan.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/xerces.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/JFlex.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/jdic_fileutil.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-SDK-3.2.2-win32/eclipse/plugins/jshortcut-0_4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
